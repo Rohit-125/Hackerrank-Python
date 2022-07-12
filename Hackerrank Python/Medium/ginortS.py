@@ -1,4 +1,4 @@
-# lower, upper, odd, even
+# Order of output:- lower, upper, odd, even
 
 lower = ""
 upper = ""
